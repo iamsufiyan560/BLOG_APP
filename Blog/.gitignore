@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .env
+.eslintrc.cjs
+package.json
+package-lock.json
+vite.config.js
